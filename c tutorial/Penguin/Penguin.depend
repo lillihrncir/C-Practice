@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586220516 source:c:\users\lilli\desktop\school stuff\comp sci\c tutorial\penguin\main.c
+	<stdio.h>
+	<stdlib.h>
+
